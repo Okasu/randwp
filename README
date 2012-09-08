@@ -1,0 +1,5 @@
+Get a random wallpaper from wallbase.cc and automatically set it with feh.
+(feh as deps ofcourse).
+
+Usage:
+  randwp tag resolution
